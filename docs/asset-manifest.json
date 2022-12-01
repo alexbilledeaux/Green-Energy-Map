@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ffaf8d43.css",
+    "main.js": "/static/js/main.08cac305.js",
+    "static/js/787.75371e89.chunk.js": "/static/js/787.75371e89.chunk.js",
+    "static/media/clean-energy.png": "/static/media/clean-energy.6dd57316b7707828f69a.png",
+    "static/media/clean-energy-cropped.png": "/static/media/clean-energy-cropped.1c038178f231a457a670.png",
+    "static/media/solar-marker.png": "/static/media/solar-marker.9d01313466c10f8841b1.png",
+    "static/media/thermal-marker.png": "/static/media/thermal-marker.a1f48f1d0564ed26f0be.png",
+    "index.html": "/index.html",
+    "main.ffaf8d43.css.map": "/static/css/main.ffaf8d43.css.map",
+    "main.08cac305.js.map": "/static/js/main.08cac305.js.map",
+    "787.75371e89.chunk.js.map": "/static/js/787.75371e89.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffaf8d43.css",
+    "static/js/main.08cac305.js"
+  ]
+}
