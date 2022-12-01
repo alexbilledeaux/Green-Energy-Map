@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/alexbilledeaux/Green-Energy-Map/static/css/main.bc82e35d.css",
-    "main.js": "/alexbilledeaux/Green-Energy-Map/static/js/main.464a5e49.js",
-    "static/js/787.75371e89.chunk.js": "/alexbilledeaux/Green-Energy-Map/static/js/787.75371e89.chunk.js",
-    "static/media/clean-energy.png": "/alexbilledeaux/Green-Energy-Map/static/media/clean-energy.6dd57316b7707828f69a.png",
-    "static/media/clean-energy-cropped.png": "/alexbilledeaux/Green-Energy-Map/static/media/clean-energy-cropped.1c038178f231a457a670.png",
-    "static/media/solar-marker.png": "/alexbilledeaux/Green-Energy-Map/static/media/solar-marker.9d01313466c10f8841b1.png",
-    "static/media/thermal-marker.png": "/alexbilledeaux/Green-Energy-Map/static/media/thermal-marker.a1f48f1d0564ed26f0be.png",
-    "index.html": "/alexbilledeaux/Green-Energy-Map/index.html",
-    "main.bc82e35d.css.map": "/alexbilledeaux/Green-Energy-Map/static/css/main.bc82e35d.css.map",
-    "main.464a5e49.js.map": "/alexbilledeaux/Green-Energy-Map/static/js/main.464a5e49.js.map",
-    "787.75371e89.chunk.js.map": "/alexbilledeaux/Green-Energy-Map/static/js/787.75371e89.chunk.js.map"
+    "main.css": "./static/css/main.58868cc7.css",
+    "main.js": "./static/js/main.d967c2c2.js",
+    "static/js/787.75371e89.chunk.js": "./static/js/787.75371e89.chunk.js",
+    "static/media/clean-energy.png": "./static/media/clean-energy.6dd57316b7707828f69a.png",
+    "static/media/clean-energy-cropped.png": "./static/media/clean-energy-cropped.1c038178f231a457a670.png",
+    "static/media/solar-marker.png": "./static/media/solar-marker.9d01313466c10f8841b1.png",
+    "static/media/thermal-marker.png": "./static/media/thermal-marker.a1f48f1d0564ed26f0be.png",
+    "index.html": "./index.html",
+    "main.58868cc7.css.map": "./static/css/main.58868cc7.css.map",
+    "main.d967c2c2.js.map": "./static/js/main.d967c2c2.js.map",
+    "787.75371e89.chunk.js.map": "./static/js/787.75371e89.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bc82e35d.css",
-    "static/js/main.464a5e49.js"
+    "static/css/main.58868cc7.css",
+    "static/js/main.d967c2c2.js"
   ]
 }
