@@ -1,0 +1,252 @@
+[
+ {
+  "name": "Solar Electric Generating Station I",
+  "capacity_mw": "13.8",
+  "technology": "Parabolic Trough",
+  "year_operational": "1984",
+  "state": "California",
+  "x": "34.863",
+  "y": "-116.827",
+  "type": "Solar"
+ },
+ {
+  "name": "Solar Electric Generating Station II",
+  "capacity_mw": "30",
+  "technology": "Parabolic Trough",
+  "year_operational": "1985",
+  "state": "California",
+  "x": "34.863",
+  "y": "-116.827",
+  "type": "Solar"
+ },
+ {
+  "name": "Solar Electric Generating Station III",
+  "capacity_mw": "30",
+  "technology": "Parabolic Trough",
+  "year_operational": "1985",
+  "state": "California",
+  "x": "35.014",
+  "y": "-117.559",
+  "type": "Solar"
+ },
+ {
+  "name": "Solar Electric Generating Station IV",
+  "capacity_mw": "30",
+  "technology": "Parabolic Trough",
+  "year_operational": "1989",
+  "state": "California",
+  "x": "35.014",
+  "y": "-117.559",
+  "type": "Solar"
+ },
+ {
+  "name": "Solar Electric Generating Station V",
+  "capacity_mw": "30",
+  "technology": "Parabolic Trough",
+  "year_operational": "1989",
+  "state": "California",
+  "x": "35.014",
+  "y": "-117.559",
+  "type": "Solar"
+ },
+ {
+  "name": "Solar Electric Generating Station VI",
+  "capacity_mw": "30",
+  "technology": "Parabolic Trough",
+  "year_operational": "1989",
+  "state": "California",
+  "x": "35.014",
+  "y": "-117.559",
+  "type": "Solar"
+ },
+ {
+  "name": "Solar Electric Generating Station VII",
+  "capacity_mw": "30",
+  "technology": "Parabolic Trough",
+  "year_operational": "1989",
+  "state": "California",
+  "x": "35.014",
+  "y": "-117.559",
+  "type": "Solar"
+ },
+ {
+  "name": "Solar Electric Generating Station VIII",
+  "capacity_mw": "80",
+  "technology": "Parabolic Trough",
+  "year_operational": "1989",
+  "state": "California",
+  "x": "35.032",
+  "y": "-117.348",
+  "type": "Solar"
+ },
+ {
+  "name": "Solar Electric Generating Station IX",
+  "capacity_mw": "80",
+  "technology": "Parabolic Trough",
+  "year_operational": "1990",
+  "state": "California",
+  "x": "35.032",
+  "y": "-117.348",
+  "type": "Solar"
+ },
+ {
+  "name": "Saguaro Power Plant",
+  "capacity_mw": "1",
+  "technology": "Parabolic Trough",
+  "year_operational": "2006",
+  "state": "Arizona",
+  "x": "32.548",
+  "y": "-111.293",
+  "type": "Solar"
+ },
+ {
+  "name": "Nevada Solar One",
+  "capacity_mw": "72",
+  "technology": "Parabolic Trough",
+  "year_operational": "2007",
+  "state": "Nevada",
+  "x": "35.8",
+  "y": "-114.983",
+  "type": "Solar"
+ },
+ {
+  "name": "Holaniku at Keahole Point",
+  "capacity_mw": "2",
+  "technology": "Parabolic Trough",
+  "year_operational": "2009",
+  "state": "Hawaii",
+  "x": "19.717",
+  "y": "-156.033",
+  "type": "Solar"
+ },
+ {
+  "name": "Maricopa Solar Project",
+  "capacity_mw": "1.5",
+  "technology": "Dish",
+  "year_operational": "2010",
+  "state": "Arizona",
+  "x": "33.559",
+  "y": "-112.219",
+  "type": "Solar"
+ },
+ {
+  "name": "Solana Generating Station",
+  "capacity_mw": "250",
+  "technology": "Parabolic Trough",
+  "year_operational": "2013",
+  "state": "Arizona",
+  "x": "32.917",
+  "y": "-112.967",
+  "type": "Solar"
+ },
+ {
+  "name": "Genesis Solar Energy Project",
+  "capacity_mw": "250",
+  "technology": "Parabolic Trough",
+  "year_operational": "2014",
+  "state": "California",
+  "x": "33.667",
+  "y": "-114.983",
+  "type": "Solar"
+ },
+ {
+  "name": "Ivanpah Solar Electric Generating System",
+  "capacity_mw": "377",
+  "technology": "Power Tower",
+  "year_operational": "2014",
+  "state": "California",
+  "x": "35.552",
+  "y": "-115.459",
+  "type": "Solar"
+ },
+ {
+  "name": "Mojave Solar Project",
+  "capacity_mw": "280",
+  "technology": "Parabolic Trough",
+  "year_operational": "2014",
+  "state": "California",
+  "x": "35.017",
+  "y": "-117.333",
+  "type": "Solar"
+ },
+ {
+  "name": "Crescent Dunes Solar Energy Project",
+  "capacity_mw": "110",
+  "technology": "Power Tower",
+  "year_operational": "2015",
+  "state": "Nevada",
+  "x": "38.239",
+  "y": "-117.363",
+  "type": "Solar"
+ },
+ {
+  "name": "Stillwater GeoSolar Hybrid Plant",
+  "capacity_mw": "2",
+  "technology": "Parabolic Trough",
+  "year_operational": "2015",
+  "state": "Nevada",
+  "x": "39.548",
+  "y": "-118.556",
+  "type": "Solar"
+ },
+ {
+  "name": "Sierra SunTower",
+  "capacity_mw": "5",
+  "technology": "Power Tower",
+  "year_operational": "",
+  "state": "California",
+  "x": "34.731",
+  "y": "-118.139",
+  "type": "Solar"
+ },
+ {
+  "name": "Tooele Army Depot",
+  "capacity_mw": "1.5",
+  "technology": "Dish",
+  "year_operational": "",
+  "state": "Utah",
+  "x": "40.501",
+  "y": "-112.374",
+  "type": "Solar"
+ },
+ {
+  "name": "Solar One",
+  "capacity_mw": "10",
+  "technology": "Power Tower",
+  "year_operational": "1982",
+  "state": "California",
+  "x": "34.871",
+  "y": "-116.834",
+  "type": "Solar"
+ },
+ {
+  "name": "Solar Two",
+  "capacity_mw": "10",
+  "technology": "Power Tower",
+  "year_operational": "1995",
+  "state": "California",
+  "x": "34.871",
+  "y": "-116.834",
+  "type": "Solar"
+ },
+ {
+  "name": "National Solar Thermal Test Facility",
+  "capacity_mw": "5",
+  "technology": "Power Tower",
+  "year_operational": "1976",
+  "state": "New Mexico",
+  "x": "34.962",
+  "y": "-106.51",
+  "type": "Solar"
+ },
+ {
+  "name": "Kimberlina Solar Thermal Power Plant",
+  "capacity_mw": "5",
+  "technology": "Linear Fresnel",
+  "year_operational": "2008",
+  "state": "California",
+  "x": "35.566",
+  "y": "-119.194",
+  "type": "Solar"
+ }
+]

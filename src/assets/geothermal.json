@@ -1,0 +1,952 @@
+[
+ {
+  "x": "38.80546077",
+  "y": "-122.8085421",
+  "name": "McCabe (Geysers Unit 5&6)",
+  "technology": "Dry Steam",
+  "capacity_mw": "78",
+  "state": "CA",
+  "year_operational": "1971",
+  "type": "geothermal"
+ },
+ {
+  "x": "38.814842",
+  "y": "-122.8013426",
+  "name": "Ridgeline (Geysers Unit 7&8)",
+  "technology": "Dry Steam",
+  "capacity_mw": "69",
+  "state": "CA",
+  "year_operational": "1972",
+  "type": "geothermal"
+ },
+ {
+  "x": "38.82676854",
+  "y": "-122.8000336",
+  "name": "Eagle Rock (Geysers Unit 11)",
+  "technology": "Dry Steam",
+  "capacity_mw": "66",
+  "state": "CA",
+  "year_operational": "1975",
+  "type": "geothermal"
+ },
+ {
+  "x": "38.80473354",
+  "y": "-122.78418",
+  "name": "Cobb Creek (Geysers Unit 12)",
+  "technology": "Dry Steam",
+  "capacity_mw": "52",
+  "state": "CA",
+  "year_operational": "1979",
+  "type": "geothermal"
+ },
+ {
+  "x": "38.77266279",
+  "y": "-122.728838",
+  "name": "Big Geyser (Geysers Unit 13)",
+  "technology": "Dry Steam",
+  "capacity_mw": "48",
+  "state": "CA",
+  "year_operational": "1980",
+  "type": "geothermal"
+ },
+ {
+  "x": "38.78633468",
+  "y": "-122.7822892",
+  "name": "Sulphur Spring (Geysers Unit 14)",
+  "technology": "Dry Steam",
+  "capacity_mw": "51",
+  "state": "CA",
+  "year_operational": "1980",
+  "type": "geothermal"
+ },
+ {
+  "x": "33.15788286",
+  "y": "-115.6474579",
+  "name": "Salton Sea I",
+  "technology": "Single Flash",
+  "capacity_mw": "9",
+  "state": "CA",
+  "year_operational": "1982",
+  "type": "geothermal"
+ },
+ {
+  "x": "38.7519368",
+  "y": "-122.7192386",
+  "name": "NCPA I",
+  "technology": "Dry Steam",
+  "capacity_mw": "56",
+  "state": "CA",
+  "year_operational": "1983",
+  "type": "geothermal"
+ },
+ {
+  "x": "38.76873576",
+  "y": "-122.747455",
+  "name": "Socrates (Geysers Unit 18)",
+  "technology": "Dry Steam",
+  "capacity_mw": "50",
+  "state": "CA",
+  "year_operational": "1983",
+  "type": "geothermal"
+ },
+ {
+  "x": "38.79026171",
+  "y": "-122.7559636",
+  "name": "Sonoma (Geysers Unit 3)",
+  "technology": "Dry Steam",
+  "capacity_mw": "42",
+  "state": "CA",
+  "year_operational": "1983",
+  "type": "geothermal"
+ },
+ {
+  "x": "38.48897125",
+  "y": "-112.8534489",
+  "name": "Blundell 1",
+  "technology": "Single Flash",
+  "capacity_mw": "26",
+  "state": "UT",
+  "year_operational": "1984",
+  "type": "geothermal"
+ },
+ {
+  "x": "38.7896072",
+  "y": "-122.7451279",
+  "name": "Calistoga (Geysers Unit 19)",
+  "technology": "Dry Steam",
+  "capacity_mw": "66",
+  "state": "CA",
+  "year_operational": "1984",
+  "type": "geothermal"
+ },
+ {
+  "x": "39.16442038",
+  "y": "-119.1807666",
+  "name": "Wabuska I",
+  "technology": "Binary",
+  "capacity_mw": "1",
+  "state": "NV",
+  "year_operational": "1984",
+  "type": "geothermal"
+ },
+ {
+  "x": "40.55473437",
+  "y": "-116.6172888",
+  "name": "Beowave",
+  "technology": "Double Flash",
+  "capacity_mw": "15",
+  "state": "NV",
+  "year_operational": "1985",
+  "type": "geothermal"
+ },
+ {
+  "x": "38.7790624",
+  "y": "-122.7546546",
+  "name": "Grant (Geysers Unit 20)",
+  "technology": "Dry Steam",
+  "capacity_mw": "43",
+  "state": "CA",
+  "year_operational": "1985",
+  "type": "geothermal"
+ },
+ {
+  "x": "32.71463755",
+  "y": "-115.5180113",
+  "name": "Heber I",
+  "technology": "Double Flash",
+  "capacity_mw": "37",
+  "state": "CA",
+  "year_operational": "1985",
+  "type": "geothermal"
+ },
+ {
+  "x": "38.82349601",
+  "y": "-122.7817074",
+  "name": "Lake View (Geysers Unit 17)",
+  "technology": "Dry Steam",
+  "capacity_mw": "52",
+  "state": "CA",
+  "year_operational": "1985",
+  "type": "geothermal"
+ },
+ {
+  "x": "38.74844611",
+  "y": "-122.7112391",
+  "name": "NCPA II",
+  "technology": "Dry Steam",
+  "capacity_mw": "52",
+  "state": "CA",
+  "year_operational": "1985",
+  "type": "geothermal"
+ },
+ {
+  "x": "38.76633591",
+  "y": "-122.7067303",
+  "name": "Quicksilver (Geysers Unit 16)",
+  "technology": "Dry Steam",
+  "capacity_mw": "53",
+  "state": "CA",
+  "year_operational": "1985",
+  "type": "geothermal"
+ },
+ {
+  "x": "40.35692843",
+  "y": "-120.2564091",
+  "name": "Wineagle",
+  "technology": "Binary",
+  "capacity_mw": "0",
+  "state": "CA",
+  "year_operational": "1985",
+  "type": "geothermal"
+ },
+ {
+  "x": "32.81557676",
+  "y": "-115.2567184",
+  "name": "Ormesa I",
+  "technology": "Binary",
+  "capacity_mw": "18",
+  "state": "CA",
+  "year_operational": "1986",
+  "type": "geothermal"
+ },
+ {
+  "x": "39.39400618",
+  "y": "-119.7536766",
+  "name": "Steamboat I",
+  "technology": "Binary",
+  "capacity_mw": "6",
+  "state": "NV",
+  "year_operational": "1986",
+  "type": "geothermal"
+ },
+ {
+  "x": "33.16297345",
+  "y": "-115.6187324",
+  "name": "Vulcan",
+  "technology": "Double Flash",
+  "capacity_mw": "40",
+  "state": "CA",
+  "year_operational": "1986",
+  "type": "geothermal"
+ },
+ {
+  "x": "36.03755926",
+  "y": "-117.7975067",
+  "name": "Navy I",
+  "technology": "Double Flash",
+  "capacity_mw": "90",
+  "state": "CA",
+  "year_operational": "1987",
+  "type": "geothermal"
+ },
+ {
+  "x": "32.78736032",
+  "y": "-115.2479917",
+  "name": "Ormesa II",
+  "technology": "Double Flash",
+  "capacity_mw": "18",
+  "state": "CA",
+  "year_operational": "1987",
+  "type": "geothermal"
+ },
+ {
+  "x": "40.36921858",
+  "y": "-119.4056981",
+  "name": "San Emidio",
+  "technology": "Binary",
+  "capacity_mw": "4",
+  "state": "NV",
+  "year_operational": "1987",
+  "type": "geothermal"
+ },
+ {
+  "x": "39.55537801",
+  "y": "-118.838315",
+  "name": "Soda Lake 1",
+  "technology": "Binary",
+  "capacity_mw": "1",
+  "state": "NV",
+  "year_operational": "1987",
+  "type": "geothermal"
+ },
+ {
+  "x": "39.1644931",
+  "y": "-119.1809847",
+  "name": "Wabuska II",
+  "technology": "Binary",
+  "capacity_mw": "1",
+  "state": "NV",
+  "year_operational": "1987",
+  "type": "geothermal"
+ },
+ {
+  "x": "40.30078644",
+  "y": "-120.1950311",
+  "name": "Amedee",
+  "technology": "Binary",
+  "capacity_mw": "1",
+  "state": "CA",
+  "year_operational": "1988",
+  "type": "geothermal"
+ },
+ {
+  "x": "38.76320883",
+  "y": "-122.6933493",
+  "name": "Bear Canyon (Geysers Unit 2)",
+  "technology": "Dry Steam",
+  "capacity_mw": "14",
+  "state": "CA",
+  "year_operational": "1988",
+  "type": "geothermal"
+ },
+ {
+  "x": "36.00228872",
+  "y": "-117.7889981",
+  "name": "BLM (East)",
+  "technology": "Double Flash",
+  "capacity_mw": "66",
+  "state": "CA",
+  "year_operational": "1988",
+  "type": "geothermal"
+ },
+ {
+  "x": "36.00665208",
+  "y": "-117.8111058",
+  "name": "BLM (West)",
+  "technology": "Double Flash",
+  "capacity_mw": "33",
+  "state": "CA",
+  "year_operational": "1988",
+  "type": "geothermal"
+ },
+ {
+  "x": "39.96698891",
+  "y": "-117.8553213",
+  "name": "Dixie Valley",
+  "technology": "Double Flash",
+  "capacity_mw": "48",
+  "state": "NV",
+  "year_operational": "1988",
+  "type": "geothermal"
+ },
+ {
+  "x": "32.80423201",
+  "y": "-115.2474826",
+  "name": "Ormesa IE",
+  "technology": "Binary",
+  "capacity_mw": "5",
+  "state": "CA",
+  "year_operational": "1988",
+  "type": "geothermal"
+ },
+ {
+  "x": "32.78437869",
+  "y": "-115.247628",
+  "name": "Ormesa IH",
+  "technology": "Binary",
+  "capacity_mw": "6",
+  "state": "CA",
+  "year_operational": "1988",
+  "type": "geothermal"
+ },
+ {
+  "x": "39.37008038",
+  "y": "-119.7672757",
+  "name": "Steamboat Hills",
+  "technology": "Single Flash",
+  "capacity_mw": "8",
+  "state": "NV",
+  "year_operational": "1988",
+  "type": "geothermal"
+ },
+ {
+  "x": "39.39415162",
+  "y": "-119.7544038",
+  "name": "Steamboat IA",
+  "technology": "Binary",
+  "capacity_mw": "2",
+  "state": "NV",
+  "year_operational": "1988",
+  "type": "geothermal"
+ },
+ {
+  "x": "38.78808002",
+  "y": "-122.7221475",
+  "name": "West Ford Flat (Geysers Unit 4)",
+  "technology": "Dry Steam",
+  "capacity_mw": "24",
+  "state": "CA",
+  "year_operational": "1988",
+  "type": "geothermal"
+ },
+ {
+  "x": "38.8336772",
+  "y": "-122.8811195",
+  "name": "Aidlin (Geysers Unit 1)",
+  "technology": "Dry Steam",
+  "capacity_mw": "17",
+  "state": "CA",
+  "year_operational": "1989",
+  "type": "geothermal"
+ },
+ {
+  "x": "33.16479152",
+  "y": "-115.6160416",
+  "name": "Del Ranch (Hoch)",
+  "technology": "Double Flash",
+  "capacity_mw": "36",
+  "state": "CA",
+  "year_operational": "1989",
+  "type": "geothermal"
+ },
+ {
+  "x": "33.17766345",
+  "y": "-115.6036787",
+  "name": "Elmore",
+  "technology": "Double Flash",
+  "capacity_mw": "36",
+  "state": "CA",
+  "year_operational": "1989",
+  "type": "geothermal"
+ },
+ {
+  "x": "32.77601557",
+  "y": "-115.2626089",
+  "name": "GEM II",
+  "technology": "Double Flash",
+  "capacity_mw": "9",
+  "state": "CA",
+  "year_operational": "1989",
+  "type": "geothermal"
+ },
+ {
+  "x": "32.77608829",
+  "y": "-115.2638452",
+  "name": "GEM III",
+  "technology": "Double Flash",
+  "capacity_mw": "12",
+  "state": "CA",
+  "year_operational": "1989",
+  "type": "geothermal"
+ },
+ {
+  "x": "40.36841862",
+  "y": "-120.2649177",
+  "name": "Honey Lake",
+  "technology": "Binary",
+  "capacity_mw": "1",
+  "state": "CA",
+  "year_operational": "1989",
+  "type": "geothermal"
+ },
+ {
+  "x": "36.01908768",
+  "y": "-117.7919797",
+  "name": "Navy II",
+  "technology": "Double Flash",
+  "capacity_mw": "90",
+  "state": "CA",
+  "year_operational": "1989",
+  "type": "geothermal"
+ },
+ {
+  "x": "33.15831919",
+  "y": "-115.6388766",
+  "name": "Salton Sea III",
+  "technology": "Double Flash",
+  "capacity_mw": "49",
+  "state": "CA",
+  "year_operational": "1989",
+  "type": "geothermal"
+ },
+ {
+  "x": "33.1778089",
+  "y": "-115.5652811",
+  "name": "Leather",
+  "technology": "Double Flash",
+  "capacity_mw": "36",
+  "state": "CA",
+  "year_operational": "1990",
+  "type": "geothermal"
+ },
+ {
+  "x": "37.64596886",
+  "y": "-118.9092924",
+  "name": "Mammoth II",
+  "technology": "Binary",
+  "capacity_mw": "11",
+  "state": "CA",
+  "year_operational": "1990",
+  "type": "geothermal"
+ },
+ {
+  "x": "33.15882825",
+  "y": "-115.6473124",
+  "name": "Salton Sea II",
+  "technology": "Double Flash",
+  "capacity_mw": "17",
+  "state": "CA",
+  "year_operational": "1990",
+  "type": "geothermal"
+ },
+ {
+  "x": "39.55654158",
+  "y": "-118.8493689",
+  "name": "Soda Lake 2",
+  "technology": "Binary",
+  "capacity_mw": "9",
+  "state": "NV",
+  "year_operational": "1991",
+  "type": "geothermal"
+ },
+ {
+  "x": "39.79587222",
+  "y": "-119.0092862",
+  "name": "Brady Hot Spring",
+  "technology": "Double Flash",
+  "capacity_mw": "14",
+  "state": "NV",
+  "year_operational": "1992",
+  "type": "geothermal"
+ },
+ {
+  "x": "19.47822",
+  "y": "-154.888594",
+  "name": "Puna",
+  "technology": "Binary",
+  "capacity_mw": "28",
+  "state": "HI",
+  "year_operational": "1992",
+  "type": "geothermal"
+ },
+ {
+  "x": "39.39582424",
+  "y": "-119.7467679",
+  "name": "Steamboat 2",
+  "technology": "Binary",
+  "capacity_mw": "10",
+  "state": "NV",
+  "year_operational": "1992",
+  "type": "geothermal"
+ },
+ {
+  "x": "39.39444251",
+  "y": "-119.7474224",
+  "name": "Steamboat 3",
+  "technology": "Binary",
+  "capacity_mw": "13",
+  "state": "NV",
+  "year_operational": "1992",
+  "type": "geothermal"
+ },
+ {
+  "x": "32.71456483",
+  "y": "-115.5359738",
+  "name": "Heber II (SIGC)",
+  "technology": "Binary",
+  "capacity_mw": "42",
+  "state": "CA",
+  "year_operational": "1993",
+  "type": "geothermal"
+ },
+ {
+  "x": "33.15693746",
+  "y": "-115.6386584",
+  "name": "Salton Sea IV",
+  "technology": "Double Flash",
+  "capacity_mw": "43",
+  "state": "CA",
+  "year_operational": "1996",
+  "type": "geothermal"
+ },
+ {
+  "x": "33.16333706",
+  "y": "-115.6193869",
+  "name": "CE Turbo",
+  "technology": "Single Flash",
+  "capacity_mw": "10",
+  "state": "CA",
+  "year_operational": "2000",
+  "type": "geothermal"
+ },
+ {
+  "x": "33.15381038",
+  "y": "-115.6379312",
+  "name": "Salton Sea V",
+  "technology": "Double Flash",
+  "capacity_mw": "54",
+  "state": "CA",
+  "year_operational": "2000",
+  "type": "geothermal"
+ },
+ {
+  "x": "39.79645401",
+  "y": "-119.0100135",
+  "name": "Brady",
+  "technology": "Binary",
+  "capacity_mw": "5",
+  "state": "NV",
+  "year_operational": "2002",
+  "type": "geothermal"
+ },
+ {
+  "x": "39.39058821",
+  "y": "-119.7549129",
+  "name": "Galena l (Richard Burdette)",
+  "technology": "Binary",
+  "capacity_mw": "24",
+  "state": "NV",
+  "year_operational": "2005",
+  "type": "geothermal"
+ },
+ {
+  "x": "32.71485572",
+  "y": "-115.5376465",
+  "name": "Goulds ll",
+  "technology": "Binary",
+  "capacity_mw": "13",
+  "state": "CA",
+  "year_operational": "2005",
+  "type": "geothermal"
+ },
+ {
+  "x": "65.05270982",
+  "y": "-146.0568131",
+  "name": "Chena",
+  "technology": "Binary",
+  "capacity_mw": "0",
+  "state": "AK",
+  "year_operational": "2006",
+  "type": "geothermal"
+ },
+ {
+  "x": "39.75405663",
+  "y": "-118.9534352",
+  "name": "Desert Peak II",
+  "technology": "Binary",
+  "capacity_mw": "12",
+  "state": "NV",
+  "year_operational": "2006",
+  "type": "geothermal"
+ },
+ {
+  "x": "32.71347398",
+  "y": "-115.518084",
+  "name": "Goulds l",
+  "technology": "Binary",
+  "capacity_mw": "10",
+  "state": "CA",
+  "year_operational": "2006",
+  "type": "geothermal"
+ },
+ {
+  "x": "38.48875308",
+  "y": "-112.8521399",
+  "name": "Blundell 2",
+  "technology": "Binary",
+  "capacity_mw": "12",
+  "state": "UT",
+  "year_operational": "2007",
+  "type": "geothermal"
+ },
+ {
+  "x": "38.83476804",
+  "y": "-122.7682537",
+  "name": "Bottle Rock",
+  "technology": "Dry Steam",
+  "capacity_mw": "11",
+  "state": "CA",
+  "year_operational": "2007",
+  "type": "geothermal"
+ },
+ {
+  "x": "39.38877014",
+  "y": "-119.7479315",
+  "name": "Galena II",
+  "technology": "Binary",
+  "capacity_mw": "9",
+  "state": "NV",
+  "year_operational": "2007",
+  "type": "geothermal"
+ },
+ {
+  "x": "32.77652463",
+  "y": "-115.2624635",
+  "name": "GEM Bottoming Unit",
+  "technology": "Binary",
+  "capacity_mw": "7",
+  "state": "CA",
+  "year_operational": "2007",
+  "type": "geothermal"
+ },
+ {
+  "x": "32.78801483",
+  "y": "-115.247628",
+  "name": "Ormesa II Upgrade",
+  "technology": "Binary",
+  "capacity_mw": "4",
+  "state": "CA",
+  "year_operational": "2007",
+  "type": "geothermal"
+ },
+ {
+  "x": "39.37313474",
+  "y": "-119.7646577",
+  "name": "Steamboat Hills (Addition)",
+  "technology": "Binary",
+  "capacity_mw": "4",
+  "state": "NV",
+  "year_operational": "2007",
+  "type": "geothermal"
+ },
+ {
+  "x": "39.38884286",
+  "y": "-119.7496768",
+  "name": "Galena III",
+  "technology": "Binary",
+  "capacity_mw": "23",
+  "state": "NV",
+  "year_operational": "2008",
+  "type": "geothermal"
+ },
+ {
+  "x": "32.71303765",
+  "y": "-115.5375737",
+  "name": "Heber South",
+  "technology": "Binary",
+  "capacity_mw": "13",
+  "state": "CA",
+  "year_operational": "2008",
+  "type": "geothermal"
+ },
+ {
+  "x": "32.14529095",
+  "y": "-108.8324613",
+  "name": "Lightning Dock",
+  "technology": "Binary",
+  "capacity_mw": "4",
+  "state": "NM",
+  "year_operational": "2008",
+  "type": "geothermal"
+ },
+ {
+  "x": "33.01447355",
+  "y": "-115.540919",
+  "name": "North Brawley",
+  "technology": "Binary",
+  "capacity_mw": "27",
+  "state": "CA",
+  "year_operational": "2008",
+  "type": "geothermal"
+ },
+ {
+  "x": "42.09936609",
+  "y": "-113.3822889",
+  "name": "Raft River",
+  "technology": "Binary",
+  "capacity_mw": "9",
+  "state": "ID",
+  "year_operational": "2008",
+  "type": "geothermal"
+ },
+ {
+  "x": "40.99514349",
+  "y": "-118.1427217",
+  "name": "Faulkner",
+  "technology": "Binary",
+  "capacity_mw": "34",
+  "state": "NV",
+  "year_operational": "2009",
+  "type": "geothermal"
+ },
+ {
+  "x": "42.25422924",
+  "y": "-121.7811148",
+  "name": "OIT",
+  "technology": "Binary",
+  "capacity_mw": "0",
+  "state": "OR",
+  "year_operational": "2009",
+  "type": "geothermal"
+ },
+ {
+  "x": "39.29488503",
+  "y": "-118.5729496",
+  "name": "Salt Wells",
+  "technology": "Binary",
+  "capacity_mw": "18",
+  "state": "NV",
+  "year_operational": "2009",
+  "type": "geothermal"
+ },
+ {
+  "x": "39.54519682",
+  "y": "-118.5573869",
+  "name": "Stillwater 2",
+  "technology": "Binary",
+  "capacity_mw": "47",
+  "state": "NV",
+  "year_operational": "2009",
+  "type": "geothermal"
+ },
+ {
+  "x": "38.16099154",
+  "y": "-113.1953914",
+  "name": "Thermo Hot Spring",
+  "technology": "Binary",
+  "capacity_mw": "10",
+  "state": "UT",
+  "year_operational": "2009",
+  "type": "geothermal"
+ },
+ {
+  "x": "40.18093931",
+  "y": "-117.4757811",
+  "name": "Jersey Valley",
+  "technology": "Binary",
+  "capacity_mw": "12",
+  "state": "NV",
+  "year_operational": "2010",
+  "type": "geothermal"
+ },
+ {
+  "x": "40.55444348",
+  "y": "-116.6231066",
+  "name": "Beowawe 2",
+  "technology": "Binary",
+  "capacity_mw": "1",
+  "state": "NV",
+  "year_operational": "2011",
+  "type": "geothermal"
+ },
+ {
+  "x": "19.47851089",
+  "y": "-154.8878668",
+  "name": "Puna Expansion",
+  "technology": "Binary",
+  "capacity_mw": "8",
+  "state": "HI",
+  "year_operational": "2011",
+  "type": "geothermal"
+ },
+ {
+  "x": "39.9666253",
+  "y": "-117.857503",
+  "name": "Dixie Valley (Addition)",
+  "technology": "Binary",
+  "capacity_mw": "6",
+  "state": "NV",
+  "year_operational": "2012",
+  "type": "geothermal"
+ },
+ {
+  "x": "40.58651422",
+  "y": "-118.2561692",
+  "name": "Florida Canyon Mine",
+  "technology": "Binary",
+  "capacity_mw": "0",
+  "state": "NV",
+  "year_operational": "2012",
+  "type": "geothermal"
+ },
+ {
+  "x": "33.20427999",
+  "y": "-115.5756078",
+  "name": "John L. Featherstone (Hudson Ranch 1)",
+  "technology": "Triple Flash",
+  "capacity_mw": "49",
+  "state": "CA",
+  "year_operational": "2012",
+  "type": "geothermal"
+ },
+ {
+  "x": "39.58926682",
+  "y": "-116.9233789",
+  "name": "McGinness Hills",
+  "technology": "Binary",
+  "capacity_mw": "30",
+  "state": "NV",
+  "year_operational": "2012",
+  "type": "geothermal"
+ },
+ {
+  "x": "44.02270166",
+  "y": "-117.4677089",
+  "name": "Neal Hot Springs",
+  "technology": "Binary",
+  "capacity_mw": "28",
+  "state": "OR",
+  "year_operational": "2012",
+  "type": "geothermal"
+ },
+ {
+  "x": "40.38012699",
+  "y": "-119.4000257",
+  "name": "San Emidio Repower",
+  "technology": "Binary",
+  "capacity_mw": "9",
+  "state": "NV",
+  "year_operational": "2012",
+  "type": "geothermal"
+ },
+ {
+  "x": "41.46740519",
+  "y": "-116.1504813",
+  "name": "Tuscarora (Hot Sulphur Springs)",
+  "technology": "Binary",
+  "capacity_mw": "18",
+  "state": "NV",
+  "year_operational": "2012",
+  "type": "geothermal"
+ },
+ {
+  "x": "38.56198492",
+  "y": "-112.580084",
+  "name": "Cove Fort",
+  "technology": "Binary",
+  "capacity_mw": "25",
+  "state": "UT",
+  "year_operational": "2013",
+  "type": "geothermal"
+ },
+ {
+  "x": "39.75289307",
+  "y": "-118.9532897",
+  "name": "Desert Peak II EGS",
+  "technology": "Binary",
+  "capacity_mw": "1",
+  "state": "NV",
+  "year_operational": "2013",
+  "type": "geothermal"
+ },
+ {
+  "x": "38.83716789",
+  "y": "-118.3238741",
+  "name": "Don A. Campbell",
+  "technology": "Binary",
+  "capacity_mw": "16",
+  "state": "NV",
+  "year_operational": "2013",
+  "type": "geothermal"
+ },
+ {
+  "x": "37.64502346",
+  "y": "-118.9141649",
+  "name": "Mammoth G1 (Mammoth I)",
+  "technology": "Binary",
+  "capacity_mw": "7",
+  "state": "CA",
+  "year_operational": "2013",
+  "type": "geothermal"
+ },
+ {
+  "x": "39.58264905",
+  "y": "-119.0747367",
+  "name": "Patua Phase 1",
+  "technology": "Binary",
+  "capacity_mw": "30",
+  "state": "NV",
+  "year_operational": "2013",
+  "type": "geothermal"
+ }
+]
